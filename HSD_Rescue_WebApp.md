@@ -6,3 +6,5 @@ Haspel Sanitäter Web App
 - Sequenzdiagramm
 - Planung 
 - Begründungsdokument
+- Aktivitätsdiagramm
+  
